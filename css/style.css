@@ -1,6 +1,6 @@
 body {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 .back_to_top {
   position: fixed;
@@ -17,13 +17,13 @@ body {
 }
 .class1 {
   height: 100vh;
-	background-color: #3498db;
+  background-color: #3498db;
 }
 .class2 {
   height: 100vh;
-	background-color: #bdc3c7;
+  background-color: #bdc3c7;
 }
 .class3 {
   height: 100vh;
-	background-color: #e74c3c;
+  background-color: #e74c3c;
 }
