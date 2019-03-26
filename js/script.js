@@ -19,7 +19,7 @@
     } 
   }
 
-   var goTopBtn = document.querySelector('.back_to_top');       //create a variable, that finds the first element with this selector 
+  var goTopBtn = document.querySelector('.back_to_top');       //create a variable, that finds the first element with this selector 
 
   window.addEventListener('scroll', trackScroll);
   goTopBtn.addEventListener('click', backToTop);        //set the "click" event handler to a variable
